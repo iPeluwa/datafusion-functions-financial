@@ -1,0 +1,28 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Personal job strategy files (keep local only)
+JOB_STRATEGY.md
+CONTRIBUTION_PLAN.md
+POLYGON_OPPORTUNITIES.md
+REPOSITORY_OVERVIEW.md
+FINAL_SUMMARY.md
+
+# Environment files with credentials
+.env
+.env.local
+*.env
